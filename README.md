@@ -14,8 +14,11 @@ the data available has minor variations in price from the real market
 ## Analysis
 - Analysis is done using the python library 'fbprophet'
 - Price is predicted for a periode of 1 year
+- Analysis is done in the file 'fb_prophet_onion_price.ipynb'
 
-## Prediction
+## Forecast
+
+- Forecasted data stored in the file 'onion_price_forecast.csv'
 
 - This plot shows the price on y-axis and time on x-axis
 - Shows price through the time periode in discussion.
