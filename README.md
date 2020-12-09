@@ -19,11 +19,11 @@ the data available has minor variations in price from the real market
 
 - This plot shows the price on y-axis and time on x-axis
 - Shows price through the time periode in discussion.
-!(https://github.com/Jaseem-Mohammed/Time-series-prediction-using-fbprophet/blob/main/images/newplot%20(1).png)
+![newplot1](https://github.com/Jaseem-Mohammed/Time-series-prediction-using-fbprophet/blob/main/images/newplot%20(1).png)
 
 - Shows trent of price through different years as well as months.
-!(https://github.com/Jaseem-Mohammed/Time-series-prediction-using-fbprophet/blob/main/images/newplot%20(2).png)
+![newplot2](https://github.com/Jaseem-Mohammed/Time-series-prediction-using-fbprophet/blob/main/images/newplot%20(2).png)
 
 ## Comparing prediction After 2 weeks
 
-!(https://github.com/Jaseem-Mohammed/Time-series-prediction-using-fbprophet/blob/main/images/Onion_p_v_a_2weeks.png)
+![p_v_a](https://github.com/Jaseem-Mohammed/Time-series-prediction-using-fbprophet/blob/main/images/Onion_p_v_a_2weeks.png)
